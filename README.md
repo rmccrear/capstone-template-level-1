@@ -26,6 +26,8 @@ Tell about my project. What is it?
 ## Wireframe
 
 An image of your wireframe (Required)
+![wireframe of index.html](img/wireframe-index.png)
+![wireframe of gallery.html](img/wireframe-gallery.png)
 
 ## Contact
 
