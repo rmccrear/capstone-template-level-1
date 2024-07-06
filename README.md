@@ -7,14 +7,13 @@ Tell about my project. What is it?
 ## Built with
 
 * A list
-* of 
+* of
 * All
 * My
 * Tech
 * Example:
 * HTML
 * CSS
-
 
 ## Roadmap
 
