@@ -42,3 +42,5 @@ Your name and email address
 * [w3schools Cards](https://www.w3schools.com/bootstrap5/bootstrap_cards.php)
 * [w3schools Navs](https://www.w3schools.com/bootstrap5/bootstrap_navs.php)
 * [w3schools For Loops](https://www.w3schools.com/js/js_loop_for.asp)
+
+NNCKNALKJL:KSDjkl;asd
