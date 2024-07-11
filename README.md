@@ -2,18 +2,15 @@
 
 ## About
 
-Tell about my project. What is it?
+This is a repo about the coolest cats...
 
 ## Built with
 
-* A list
-* of
-* All
-* My
-* Tech
-* Example:
 * HTML
 * CSS
+* JavaScript
+* Bootstrap
+* Microsoft Image Creator AI
 
 ## Roadmap
 
@@ -25,12 +22,14 @@ Tell about my project. What is it?
 ## Wireframe
 
 An image of your wireframe (Required)
-![wireframe of index.html](img/wireframe-index.png)
-![wireframe of gallery.html](img/wireframe-gallery.png)
+
+![index wireframe](img/wireframe-index.png)
+
+![gallery wireframe](img/wireframe-gallery.png)
 
 ## Contact
 
-Your name and email address
+Robert robert.mccreary@codex.academy
 
 ## Acknowledgements
 
@@ -42,5 +41,3 @@ Your name and email address
 * [w3schools Cards](https://www.w3schools.com/bootstrap5/bootstrap_cards.php)
 * [w3schools Navs](https://www.w3schools.com/bootstrap5/bootstrap_navs.php)
 * [w3schools For Loops](https://www.w3schools.com/js/js_loop_for.asp)
-
-NNCKNALKJL:KSDjkl;asd

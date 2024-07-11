@@ -1,0 +1,11 @@
+
+.cat-image-container {
+  padding: 20px;
+  width: 80%;
+  border: solid red 10px; 
+  margin: auto;
+}
+
+.cat-image-container img {
+  width: 100%;
+}
