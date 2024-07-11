@@ -9,3 +9,7 @@
 .cat-image-container img {
   width: 100%;
 }
+
+.my-col {
+  border: solid salmon;
+}
