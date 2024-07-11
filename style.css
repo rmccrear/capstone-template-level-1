@@ -11,5 +11,9 @@
 }
 
 .my-col {
-  border: solid salmon;
+  /* border: solid salmon; */
+}
+
+.cat-img {
+  width: 100px;
 }
