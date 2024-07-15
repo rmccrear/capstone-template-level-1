@@ -17,3 +17,11 @@
 .cat-img {
   width: 100px;
 }
+
+.btn-primary {
+  background-color: blueviolet;
+}
+
+.btn-primary:hover {
+  background-color: blueviolet;
+}
